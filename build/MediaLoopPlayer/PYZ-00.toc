@@ -1,0 +1,2 @@
+('C:\\Users\\c_mil\\Desktop\\Dev\\Python\\Media-Loop-Player\\build\\MediaLoopPlayer\\PYZ-00.pyz',
+ [])
